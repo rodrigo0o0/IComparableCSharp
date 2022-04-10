@@ -1,0 +1,6 @@
+C:\Users\sande\source\repos\IComparableCSharp\IComparableCSharp\bin\Debug\IComparableCSharp.exe
+C:\Users\sande\source\repos\IComparableCSharp\IComparableCSharp\bin\Debug\IComparableCSharp.pdb
+C:\Users\sande\source\repos\IComparableCSharp\IComparableCSharp\obj\Debug\IComparableCSharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\IComparableCSharp\IComparableCSharp\obj\Debug\IComparableCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\IComparableCSharp\IComparableCSharp\obj\Debug\IComparableCSharp.exe
+C:\Users\sande\source\repos\IComparableCSharp\IComparableCSharp\obj\Debug\IComparableCSharp.pdb
